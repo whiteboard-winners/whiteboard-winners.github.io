@@ -1,5 +1,5 @@
 ---
-title: About
+title: Whiteboard Winners - About
 ---
 
 # About
