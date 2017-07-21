@@ -60,8 +60,8 @@ If a community member engages in unacceptable behavior, the community organizers
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
 * Contact Info - Jason Lowenthal:
-** Twitter - @lowenthal_jason
-** Email - jasonlowenthal@gmail.com
+  * Twitter - [@lowenthal_jason](https://twitter.com/lowenthal_jason)
+  * Email - <jasonlowenthal@gmail.com>
 
 [Reporting Guidelines](reporting_guidelines.md)
 
@@ -76,9 +76,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 ## 9. Contact info
 
 For any questions or concerns regarding code of conduct, or needs regarding reporting - please reach out to Jason Lowenthal.
-* on Twitter (@lowenthal_jason)
+* on Twitter [@lowenthal_jason](https://twitter.com/lowenthal_jason)
 * In the Whiteboard Winners Slack Team
-* via email (jasonlowenthal@gmail.com)
+* via email (<jasonlowenthal@gmail.com>)
 
 ## 10. License and attribution
 
