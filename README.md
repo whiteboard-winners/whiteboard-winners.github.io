@@ -3,3 +3,6 @@ Whiteboard Winners aims to be a community where all software developers can gain
 ## Join The Slack Group
 
 [<img src="images/slack-logo.jpg" width="50">](https://whiteboard-winners-signup.herokuapp.com/)
+
+### Code of Conduct
+Because we're an open community aiming to help everyone become a successful programming professional, we pride ourselve in carrying a positive and inclusive environment. Please see the [code of conduct] (citizen_code_of_conduct.md) to understand our expectations for those members who participate in this group.
